@@ -142,7 +142,15 @@ button
     }
 }
 
+.graphimage{
+    width: 210px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 
+}
 
 /** 2. Preloader
 *******************************************************************/
